@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Expense Tracker</string>
+    <string name="bottom_nav_section_home">Home</string>
+    <string name="bottom_nav_section_report">Report</string>
+    <string name="bottom_nav_section_category">Category</string>
+    <string name="bottom_nav_section_profile">Profile</string>
 </resources>
